@@ -1625,7 +1625,7 @@
     (uuid 041b9068-86bb-4b59-9fdf-0104f68b7a59)
     (property "Reference" "SW35" (id 0) (at 91.44 124.46 0))
     (property "Value" "MX_SW_HS" (id 1) (at 91.44 127 0))
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 91.44 132.08 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.75u_stp" (id 2) (at 91.44 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 91.44 132.08 0)
@@ -1805,7 +1805,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 104.14 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1c48739b-99e2-432d-b1a9-4403c65a179c)
-    (property "Reference" "SW69" (id 0) (at 104.14 153.67 0))
+    (property "Reference" "SW70" (id 0) (at 104.14 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 104.14 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 104.14 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1851,7 +1851,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 116.84 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 240a93d2-895f-49e5-8ff4-4f00d3d28b6c)
-    (property "Reference" "SW70" (id 0) (at 116.84 153.67 0))
+    (property "Reference" "SW71" (id 0) (at 116.84 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 116.84 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 116.84 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1914,7 +1914,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 242.57 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2d0699ff-ac7e-48d5-84d9-75f090f5d8e8)
-    (property "Reference" "SW75" (id 0) (at 242.57 153.67 0))
+    (property "Reference" "SW76" (id 0) (at 242.57 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 242.57 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 242.57 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1989,7 +1989,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 252.73 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 31fb0115-73ad-47e8-8ab6-e463dee7b889)
-    (property "Reference" "SW76" (id 0) (at 252.73 153.67 0))
+    (property "Reference" "SW77" (id 0) (at 252.73 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 252.73 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 252.73 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1999,6 +1999,21 @@
     )
     (pin "1" (uuid 7386ce02-5d9d-4463-98e4-961034042938))
     (pin "2" (uuid 70d60a7a-5d5c-4a59-aa2e-da520a8cfa26))
+  )
+
+  (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 223.52 147.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 331dc463-45ab-4716-8630-13fd5607b46e)
+    (property "Reference" "SW64" (id 0) (at 223.52 139.7 0))
+    (property "Value" "MX_SW_HS" (id 1) (at 223.52 142.24 0))
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 223.52 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 223.52 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f2d77652-c380-44ca-9dd3-5ad01337677e))
+    (pin "2" (uuid a24bf5ed-e656-4ad6-a907-a4598d2f1223))
   )
 
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 252.73 116.84 0) (unit 1)
@@ -2365,7 +2380,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 223.52 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 638fa8a3-6b23-4261-9e42-d014f6244110)
-    (property "Reference" "SW74" (id 0) (at 223.52 153.67 0))
+    (property "Reference" "SW75" (id 0) (at 223.52 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 223.52 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 223.52 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2397,7 +2412,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 196.85 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6579b699-2e9a-4a9b-87bc-4292250630af)
-    (property "Reference" "SW72" (id 0) (at 196.85 153.67 0))
+    (property "Reference" "SW73" (id 0) (at 196.85 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 196.85 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 196.85 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2491,7 +2506,7 @@
     (uuid 72e76ed3-db25-4d43-8fbf-c302e6ff9c55)
     (property "Reference" "SW31" (id 0) (at 223.52 109.22 0))
     (property "Value" "MX_SW_HS" (id 1) (at 223.52 111.76 0))
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 223.52 116.84 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1.5u" (id 2) (at 223.52 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.52 116.84 0)
@@ -2504,7 +2519,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 210.82 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7341a6b4-f334-404b-9fa7-c56ac18e635f)
-    (property "Reference" "SW73" (id 0) (at 210.82 153.67 0))
+    (property "Reference" "SW74" (id 0) (at 210.82 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 210.82 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 210.82 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2633,7 +2648,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 91.44 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 82b4c283-a8e2-43f7-9854-5f246d08e054)
-    (property "Reference" "SW68" (id 0) (at 91.44 153.67 0))
+    (property "Reference" "SW69" (id 0) (at 91.44 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 91.44 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 91.44 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3057,19 +3072,19 @@
     (pin "99" (uuid 02716719-a900-4af5-a635-7157fe0eaf61))
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_stab") (at 224.79 144.78 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_stab") (at 224.79 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ae9339f0-1608-43e7-83f5-0f989281b2c0)
-    (property "Reference" "S2" (id 0) (at 231.14 143.3829 0)
+    (property "Reference" "S2" (id 0) (at 231.14 167.5129 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MX_stab" (id 1) (at 231.14 145.9229 0)
+    (property "Value" "MX_stab" (id 1) (at 231.14 170.0529 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "marbastlib-mx:STAB_MX_P_2u" (id 2) (at 224.79 144.78 0)
+    (property "Footprint" "marbastlib-mx:STAB_MX_P_2u" (id 2) (at 224.79 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 224.79 144.78 0)
+    (property "Datasheet" "" (id 3) (at 224.79 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -3152,15 +3167,15 @@
     (pin "1" (uuid 0d98e911-816f-452d-bd65-783de8d6ee13))
   )
 
-  (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 201.93 102.87 0) (unit 1)
+  (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 203.2 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bd6e1bff-156d-4a5a-98f3-071af866f5a8)
-    (property "Reference" "SW12" (id 0) (at 201.93 95.25 0))
-    (property "Value" "MX_SW_HS" (id 1) (at 201.93 97.79 0))
-    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 201.93 102.87 0)
+    (property "Reference" "SW12" (id 0) (at 203.2 95.25 0))
+    (property "Value" "MX_SW_HS" (id 1) (at 203.2 97.79 0))
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 203.2 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 201.93 102.87 0)
+    (property "Datasheet" "~" (id 3) (at 203.2 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e54c2124-9be2-403c-8c5b-58264992394f))
@@ -3233,7 +3248,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 252.73 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c46dd762-50f0-4b87-8261-ad17e1e1e341)
-    (property "Reference" "SW65" (id 0) (at 252.73 139.7 0))
+    (property "Reference" "SW66" (id 0) (at 252.73 139.7 0))
     (property "Value" "MX_SW_HS" (id 1) (at 252.73 142.24 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 252.73 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3278,7 +3293,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 262.89 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cb5b7e17-e662-4b27-9217-3fb18298877b)
-    (property "Reference" "SW77" (id 0) (at 262.89 153.67 0))
+    (property "Reference" "SW78" (id 0) (at 262.89 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 262.89 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 262.89 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3308,7 +3323,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 181.61 160.02 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d19a0806-52d9-49eb-9f8d-6c73b818ebc2)
-    (property "Reference" "SW67" (id 0) (at 181.61 152.4 0))
+    (property "Reference" "SW68" (id 0) (at 181.61 152.4 0))
     (property "Value" "MX_SW_HS" (id 1) (at 181.61 154.94 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 181.61 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3323,7 +3338,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 242.57 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d3584214-443c-4c06-a84a-ed74aabe8329)
-    (property "Reference" "SW64" (id 0) (at 242.57 139.7 0))
+    (property "Reference" "SW65" (id 0) (at 242.57 139.7 0))
     (property "Value" "MX_SW_HS" (id 1) (at 242.57 142.24 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 242.57 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3475,7 +3490,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 146.05 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f257a33f-d2dd-4745-9248-842419358b3c)
-    (property "Reference" "SW71" (id 0) (at 146.05 153.67 0))
+    (property "Reference" "SW72" (id 0) (at 146.05 153.67 0))
     (property "Value" "MX_SW_HS" (id 1) (at 146.05 156.21 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 146.05 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3535,7 +3550,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_HS") (at 262.89 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fa35f1dd-f2a0-4896-92d0-ce1b432c917d)
-    (property "Reference" "SW66" (id 0) (at 262.89 139.7 0))
+    (property "Reference" "SW67" (id 0) (at 262.89 139.7 0))
     (property "Value" "MX_SW_HS" (id 1) (at 262.89 142.24 0))
     (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 262.89 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3848,7 +3863,7 @@
       (reference "SW30") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/72e76ed3-db25-4d43-8fbf-c302e6ff9c55"
-      (reference "SW31") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "SW31") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1.5u")
     )
     (path "/f6d444de-4c41-4852-88e4-00e52b56082b"
       (reference "SW32") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -3860,7 +3875,7 @@
       (reference "SW34") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/041b9068-86bb-4b59-9fdf-0104f68b7a59"
-      (reference "SW35") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
+      (reference "SW35") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1.75u_stp")
     )
     (path "/8cc17645-8e4b-40eb-b896-9b7ace3ed4ad"
       (reference "SW36") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
@@ -3946,47 +3961,50 @@
     (path "/84abfca2-cdb5-4095-8088-abb0897da532"
       (reference "SW63") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/d3584214-443c-4c06-a84a-ed74aabe8329"
+    (path "/331dc463-45ab-4716-8630-13fd5607b46e"
       (reference "SW64") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/c46dd762-50f0-4b87-8261-ad17e1e1e341"
+    (path "/d3584214-443c-4c06-a84a-ed74aabe8329"
       (reference "SW65") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/fa35f1dd-f2a0-4896-92d0-ce1b432c917d"
+    (path "/c46dd762-50f0-4b87-8261-ad17e1e1e341"
       (reference "SW66") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/d19a0806-52d9-49eb-9f8d-6c73b818ebc2"
+    (path "/fa35f1dd-f2a0-4896-92d0-ce1b432c917d"
       (reference "SW67") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/82b4c283-a8e2-43f7-9854-5f246d08e054"
+    (path "/d19a0806-52d9-49eb-9f8d-6c73b818ebc2"
       (reference "SW68") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/1c48739b-99e2-432d-b1a9-4403c65a179c"
+    (path "/82b4c283-a8e2-43f7-9854-5f246d08e054"
       (reference "SW69") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/240a93d2-895f-49e5-8ff4-4f00d3d28b6c"
+    (path "/1c48739b-99e2-432d-b1a9-4403c65a179c"
       (reference "SW70") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/f257a33f-d2dd-4745-9248-842419358b3c"
+    (path "/240a93d2-895f-49e5-8ff4-4f00d3d28b6c"
       (reference "SW71") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/6579b699-2e9a-4a9b-87bc-4292250630af"
+    (path "/f257a33f-d2dd-4745-9248-842419358b3c"
       (reference "SW72") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/7341a6b4-f334-404b-9fa7-c56ac18e635f"
+    (path "/6579b699-2e9a-4a9b-87bc-4292250630af"
       (reference "SW73") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/638fa8a3-6b23-4261-9e42-d014f6244110"
+    (path "/7341a6b4-f334-404b-9fa7-c56ac18e635f"
       (reference "SW74") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/2d0699ff-ac7e-48d5-84d9-75f090f5d8e8"
+    (path "/638fa8a3-6b23-4261-9e42-d014f6244110"
       (reference "SW75") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/31fb0115-73ad-47e8-8ab6-e463dee7b889"
+    (path "/2d0699ff-ac7e-48d5-84d9-75f090f5d8e8"
       (reference "SW76") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
-    (path "/cb5b7e17-e662-4b27-9217-3fb18298877b"
+    (path "/31fb0115-73ad-47e8-8ab6-e463dee7b889"
       (reference "SW77") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
+    )
+    (path "/cb5b7e17-e662-4b27-9217-3fb18298877b"
+      (reference "SW78") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/2b56d218-4c71-4319-b6db-30bb54f4e6dd"
       (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")

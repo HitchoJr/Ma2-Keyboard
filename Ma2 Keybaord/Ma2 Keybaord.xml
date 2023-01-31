@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\HitchoJr\Documents\GitHub\Ma2-Keyboard\Ma2 Keybaord\Ma2 Keybaord.kicad_sch</source>
+    <date>31/01/2023 9:26:32 PM</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Ma2 Keybaord.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15df4d0a-609d-4eef-b61d-fbf1320b05fe</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b0a3b32-85cc-4a7b-a17f-73ef0c9452c7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>369e9e7f-9160-4ead-8080-caf3d4a31f7a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ed91c71-75fa-492c-b9d2-32bdb6e3b788</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92eebe03-66fb-43ac-bf0b-70c324a10489</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0516813-830a-41e3-a952-61c6567fbe1e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9baa266d-df7e-45e0-acb4-50388e0be971</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92850282-72a0-468d-8764-0444c7d9c645</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75929a43-2062-422e-ac68-33aa939e0987</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>kobuss-footprint:U262-161N-4BVC11</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91199a05-c985-4aa5-bb60-539fb24864c2</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96159e22-67d1-4e80-9a77-4e121963471c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7074a2-4e3d-4f57-9dcb-92fbb37cffdc</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a3dd39d-78c6-4da1-96f2-ce1b7c226211</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e523696c-2ce3-4570-bbed-1e6b90db8540</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78400aa1-a4f1-436b-b4b5-51500ab69ff7</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45792b2e-622b-4b2a-8641-2d9e2ec4a91d</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_P_2u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64977821-ecb2-4616-b1cb-62c119391558</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_P_2u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae9339f0-1608-43e7-83f5-0f989281b2c0</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_P_6u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a206ba1-75a1-4c31-84d9-a14d1b5ffa94</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8df57f2-678b-434b-abb5-a4ec826a1a00</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4648df9b-330f-4dff-866f-5634265e9a9f</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5243dbef-621c-4f6c-9d76-648e9d04a08f</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a189fa44-6fd6-4fe2-874c-f4cbf7ebf0d1</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee33c67-acd0-4b67-924b-9a3b4fa105af</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0084b06-725f-4c76-aee6-d4a5fd4e3381</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>feea821c-b62b-44c3-a1c8-4d8c45356ce6</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee4be04b-ea77-489b-9eb6-ce4e5095d326</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b4bb90d-8bf9-45ab-9403-562eec1f283a</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>681cdd54-b595-4974-8b3c-e6b773004258</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>356b7812-9941-4efa-8bad-7d098703590b</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd6e1bff-156d-4a5a-98f3-071af866f5a8</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f0eb6d6-6be4-4467-a756-efe9d2d025ed</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57a1c4b6-d37b-416f-a6c0-e137a5bef32d</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa3dd7df-c98b-4763-b757-b1a760bdc431</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4760ce3b-8485-4af8-9daa-43b56c413f1e</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7849cab-bb31-4ac1-823c-2502adfedc1e</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.5u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12c14d79-4a26-4162-9abf-8f6ff6bf75e8</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5696876b-7444-4b27-acd0-e0d079cce7b7</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ceca9bc-bd03-46e9-ba61-e41dfc7ea7ae</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>827a61d4-f992-4606-8517-2ce21480e660</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10b76887-9b2e-4c44-ac27-9314296b19c8</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>108361d0-3ddf-4c17-9e32-9d860b435908</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4682a16-1aeb-4e14-94fe-c4143698ad60</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f887af7-1f52-4586-ae6a-9a89e7de11f4</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30a37427-8aa0-41ee-8654-050bd514c22d</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6318cb49-e4a1-4be2-9baf-402bd091abcc</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>535fd244-2d60-4559-8e28-2060295d5d52</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6778389b-e35a-410a-b6f0-06cd21e9717b</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23667b44-2419-41de-82f5-1251a71e221e</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.5u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72e76ed3-db25-4d43-8fbf-c302e6ff9c55</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6d444de-4c41-4852-88e4-00e52b56082b</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>348c1065-2076-4bf2-96da-256342704d31</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0ac223-19c7-40dd-aef6-8248e7095a4e</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.75u_stp</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>041b9068-86bb-4b59-9fdf-0104f68b7a59</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cc17645-8e4b-40eb-b896-9b7ace3ed4ad</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da12d09-d739-47ca-a52c-49e89209179f</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb7f6eab-2abe-4778-b0d2-7c657c763024</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea9a97c6-99a5-4bef-8c3f-f00c8e8c18c7</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c25422c8-1e7e-4bc2-ab7c-4fa36e6de9b7</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41d467bd-c960-4f6c-a5b1-728524b38b89</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f61d086-44b1-4605-a77b-49abf417b198</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c064cda2-e5ef-46d6-9fe3-5f6bc5223907</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e3e1c1e-dbee-4a3f-beaf-309070294cc3</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c64f3eab-3f8a-4748-867f-b1d46f20a465</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ca4c7d5-a750-426f-aa72-47ef50d55c0a</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5331c30-6358-4178-8383-40de39fb4780</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62046480-da1b-4ca1-b5d5-7dbddc403a3d</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec114eda-3e0a-44f2-b84e-5aa99049031e</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff14ccb3-3ea8-4093-aa98-04f3bd4143cd</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35670b5-26e2-4dfe-96c0-1793df0358d2</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94a30eab-5a75-489e-a3e0-51a85805b190</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f596cfce-2eda-48b6-89f8-124fcc7ffd12</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dbd5dcb-e346-40e2-9354-ba9ce9fcaa07</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30dffb04-8f4c-4d4c-8c9a-5d26709c766d</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44e5efec-ccd3-4ad1-96db-44ba75fddc8c</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>903ab457-7102-42e3-af82-4ad97ae8ada6</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e2bd8a1-3157-4e81-9186-6ed02f01992f</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ea78cc9-d077-4bd2-911e-69bd378e9a5a</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc5ac037-b3b9-4adc-85c4-4172c2d3fc40</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1bd2f7e-4a28-4a8b-bd27-208456d120d9</tstamps>
+    </comp>
+    <comp ref="SW62">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>785bb8cd-e261-4520-994f-bb2a34646580</tstamps>
+    </comp>
+    <comp ref="SW63">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84abfca2-cdb5-4095-8088-abb0897da532</tstamps>
+    </comp>
+    <comp ref="SW64">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>331dc463-45ab-4716-8630-13fd5607b46e</tstamps>
+    </comp>
+    <comp ref="SW65">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3584214-443c-4c06-a84a-ed74aabe8329</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c46dd762-50f0-4b87-8261-ad17e1e1e341</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa35f1dd-f2a0-4896-92d0-ce1b432c917d</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d19a0806-52d9-49eb-9f8d-6c73b818ebc2</tstamps>
+    </comp>
+    <comp ref="SW69">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82b4c283-a8e2-43f7-9854-5f246d08e054</tstamps>
+    </comp>
+    <comp ref="SW70">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c48739b-99e2-432d-b1a9-4403c65a179c</tstamps>
+    </comp>
+    <comp ref="SW71">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>240a93d2-895f-49e5-8ff4-4f00d3d28b6c</tstamps>
+    </comp>
+    <comp ref="SW72">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f257a33f-d2dd-4745-9248-842419358b3c</tstamps>
+    </comp>
+    <comp ref="SW73">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6579b699-2e9a-4a9b-87bc-4292250630af</tstamps>
+    </comp>
+    <comp ref="SW74">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7341a6b4-f334-404b-9fa7-c56ac18e635f</tstamps>
+    </comp>
+    <comp ref="SW75">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>638fa8a3-6b23-4261-9e42-d014f6244110</tstamps>
+    </comp>
+    <comp ref="SW76">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d0699ff-ac7e-48d5-84d9-75f090f5d8e8</tstamps>
+    </comp>
+    <comp ref="SW77">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31fb0115-73ad-47e8-8ab6-e463dee7b889</tstamps>
+    </comp>
+    <comp ref="SW78">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb5b7e17-e662-4b27-9217-3fb18298877b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b56d218-4c71-4319-b6db-30bb54f4e6dd</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM32F072V8Tx</value>
+      <footprint>Package_QFP:LQFP-100_14x14mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F0" part="STM32F072V8Tx" description="ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 87 GPIO, LQFP-100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ma2 Keybaord.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad3df557-306a-410d-88ee-7c837591efb0</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F0" part="STM32F072V8Tx">
+      <description>ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 87 GPIO, LQFP-100</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf</docs>
+      <footprints>
+        <fp>LQFP*14x14mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F072V8Tx</field>
+        <field name="Footprint">Package_QFP:LQFP-100_14x14mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE2" type="bidirectional"/>
+        <pin num="2" name="PE3" type="bidirectional"/>
+        <pin num="3" name="PE4" type="bidirectional"/>
+        <pin num="4" name="PE5" type="bidirectional"/>
+        <pin num="5" name="PE6" type="bidirectional"/>
+        <pin num="6" name="VBAT" type="power_in"/>
+        <pin num="7" name="PC13" type="bidirectional"/>
+        <pin num="8" name="PC14" type="bidirectional"/>
+        <pin num="9" name="PC15" type="bidirectional"/>
+        <pin num="10" name="PF9" type="bidirectional"/>
+        <pin num="11" name="PF10" type="bidirectional"/>
+        <pin num="12" name="PF0" type="input"/>
+        <pin num="13" name="PF1" type="input"/>
+        <pin num="14" name="NRST" type="input"/>
+        <pin num="15" name="PC0" type="bidirectional"/>
+        <pin num="16" name="PC1" type="bidirectional"/>
+        <pin num="17" name="PC2" type="bidirectional"/>
+        <pin num="18" name="PC3" type="bidirectional"/>
+        <pin num="19" name="PF2" type="bidirectional"/>
+        <pin num="20" name="VSSA" type="power_in"/>
+        <pin num="21" name="VDDA" type="power_in"/>
+        <pin num="22" name="PF3" type="bidirectional"/>
+        <pin num="23" name="PA0" type="bidirectional"/>
+        <pin num="24" name="PA1" type="bidirectional"/>
+        <pin num="25" name="PA2" type="bidirectional"/>
+        <pin num="26" name="PA3" type="bidirectional"/>
+        <pin num="27" name="VSS" type="power_in"/>
+        <pin num="28" name="VDD" type="power_in"/>
+        <pin num="29" name="PA4" type="bidirectional"/>
+        <pin num="30" name="PA5" type="bidirectional"/>
+        <pin num="31" name="PA6" type="bidirectional"/>
+        <pin num="32" name="PA7" type="bidirectional"/>
+        <pin num="33" name="PC4" type="bidirectional"/>
+        <pin num="34" name="PC5" type="bidirectional"/>
+        <pin num="35" name="PB0" type="bidirectional"/>
+        <pin num="36" name="PB1" type="bidirectional"/>
+        <pin num="37" name="PB2" type="bidirectional"/>
+        <pin num="38" name="PE7" type="bidirectional"/>
+        <pin num="39" name="PE8" type="bidirectional"/>
+        <pin num="40" name="PE9" type="bidirectional"/>
+        <pin num="41" name="PE10" type="bidirectional"/>
+        <pin num="42" name="PE11" type="bidirectional"/>
+        <pin num="43" name="PE12" type="bidirectional"/>
+        <pin num="44" name="PE13" type="bidirectional"/>
+        <pin num="45" name="PE14" type="bidirectional"/>
+        <pin num="46" name="PE15" type="bidirectional"/>
+        <pin num="47" name="PB10" type="bidirectional"/>
+        <pin num="48" name="PB11" type="bidirectional"/>
+        <pin num="49" name="VSS" type="power_in"/>
+        <pin num="50" name="VDD" type="power_in"/>
+        <pin num="51" name="PB12" type="bidirectional"/>
+        <pin num="52" name="PB13" type="bidirectional"/>
+        <pin num="53" name="PB14" type="bidirectional"/>
+        <pin num="54" name="PB15" type="bidirectional"/>
+        <pin num="55" name="PD8" type="bidirectional"/>
+        <pin num="56" name="PD9" type="bidirectional"/>
+        <pin num="57" name="PD10" type="bidirectional"/>
+        <pin num="58" name="PD11" type="bidirectional"/>
+        <pin num="59" name="PD12" type="bidirectional"/>
+        <pin num="60" name="PD13" type="bidirectional"/>
+        <pin num="61" name="PD14" type="bidirectional"/>
+        <pin num="62" name="PD15" type="bidirectional"/>
+        <pin num="63" name="PC6" type="bidirectional"/>
+        <pin num="64" name="PC7" type="bidirectional"/>
+        <pin num="65" name="PC8" type="bidirectional"/>
+        <pin num="66" name="PC9" type="bidirectional"/>
+        <pin num="67" name="PA8" type="bidirectional"/>
+        <pin num="68" name="PA9" type="bidirectional"/>
+        <pin num="69" name="PA10" type="bidirectional"/>
+        <pin num="70" name="PA11" type="bidirectional"/>
+        <pin num="71" name="PA12" type="bidirectional"/>
+        <pin num="72" name="PA13" type="bidirectional"/>
+        <pin num="73" name="PF6" type="bidirectional"/>
+        <pin num="74" name="VSS" type="power_in"/>
+        <pin num="75" name="VDDIO2" type="power_in"/>
+        <pin num="76" name="PA14" type="bidirectional"/>
+        <pin num="77" name="PA15" type="bidirectional"/>
+        <pin num="78" name="PC10" type="bidirectional"/>
+        <pin num="79" name="PC11" type="bidirectional"/>
+        <pin num="80" name="PC12" type="bidirectional"/>
+        <pin num="81" name="PD0" type="bidirectional"/>
+        <pin num="82" name="PD1" type="bidirectional"/>
+        <pin num="83" name="PD2" type="bidirectional"/>
+        <pin num="84" name="PD3" type="bidirectional"/>
+        <pin num="85" name="PD4" type="bidirectional"/>
+        <pin num="86" name="PD5" type="bidirectional"/>
+        <pin num="87" name="PD6" type="bidirectional"/>
+        <pin num="88" name="PD7" type="bidirectional"/>
+        <pin num="89" name="PB3" type="bidirectional"/>
+        <pin num="90" name="PB4" type="bidirectional"/>
+        <pin num="91" name="PB5" type="bidirectional"/>
+        <pin num="92" name="PB6" type="bidirectional"/>
+        <pin num="93" name="PB7" type="bidirectional"/>
+        <pin num="94" name="BOOT0" type="input"/>
+        <pin num="95" name="PB8" type="bidirectional"/>
+        <pin num="96" name="PB9" type="bidirectional"/>
+        <pin num="97" name="PE0" type="bidirectional"/>
+        <pin num="98" name="PE1" type="bidirectional"/>
+        <pin num="99" name="VSS" type="power_in"/>
+        <pin num="100" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_SW_HS">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">MX_SW_HS</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_1u</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_stab">
+      <description>Cherry MX-style stabilizer</description>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX_stab</field>
+        <field name="Footprint">marbastlib-mx:STAB_MX_P_6.25u</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F0">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32F0.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="marbastlib-mx">
+      <uri>C:/Users/HitchoJr/Documents/KiCad/6.0/footprints/marbastlib-mx.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U2" pin="100" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="21" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U2" pin="28" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="50" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U2" pin="75" pinfunction="VDDIO2" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J3" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="BOOT">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="94" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="4" name="D_N">
+      <node ref="J3" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J3" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="70" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="D_P">
+      <node ref="J3" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J3" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="71" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J3" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="20" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U2" pin="27" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="49" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="74" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="99" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(J3-PadA5)">
+      <node ref="J3" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J3-PadB5)">
+      <node ref="J3" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="PA9">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="68" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="RESET">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="11" name="SWCLK">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="76" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="SWDIO">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="72" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="unconnected-(J3-PadA8)">
+      <node ref="J3" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(J3-PadB8)">
+      <node ref="J3" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(SW1-Pad2)">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(SW2-Pad1)">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="unconnected-(SW2-Pad2)">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="unconnected-(SW3-Pad1)">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="unconnected-(SW3-Pad2)">
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(SW4-Pad1)">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(SW4-Pad2)">
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(SW5-Pad1)">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(SW5-Pad2)">
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(SW6-Pad1)">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(SW6-Pad2)">
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(SW7-Pad1)">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(SW7-Pad2)">
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(SW8-Pad1)">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(SW8-Pad2)">
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="unconnected-(SW9-Pad1)">
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(SW9-Pad2)">
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(SW10-Pad1)">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="unconnected-(SW10-Pad2)">
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="unconnected-(SW11-Pad1)">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(SW11-Pad2)">
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(SW12-Pad1)">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="unconnected-(SW12-Pad2)">
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(SW13-Pad1)">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="unconnected-(SW13-Pad2)">
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="unconnected-(SW14-Pad1)">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(SW14-Pad2)">
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="unconnected-(SW15-Pad1)">
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="unconnected-(SW15-Pad2)">
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="unconnected-(SW16-Pad1)">
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="46" name="unconnected-(SW16-Pad2)">
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="unconnected-(SW17-Pad1)">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="unconnected-(SW17-Pad2)">
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="unconnected-(SW18-Pad1)">
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(SW18-Pad2)">
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="unconnected-(SW19-Pad1)">
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="unconnected-(SW19-Pad2)">
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(SW20-Pad1)">
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="54" name="unconnected-(SW20-Pad2)">
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="unconnected-(SW21-Pad1)">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="56" name="unconnected-(SW21-Pad2)">
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="unconnected-(SW22-Pad1)">
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="58" name="unconnected-(SW22-Pad2)">
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="unconnected-(SW23-Pad1)">
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="unconnected-(SW23-Pad2)">
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="unconnected-(SW24-Pad1)">
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="unconnected-(SW24-Pad2)">
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="unconnected-(SW25-Pad1)">
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="unconnected-(SW25-Pad2)">
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="unconnected-(SW26-Pad1)">
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="66" name="unconnected-(SW26-Pad2)">
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="unconnected-(SW27-Pad1)">
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="unconnected-(SW27-Pad2)">
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="unconnected-(SW28-Pad1)">
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="unconnected-(SW28-Pad2)">
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="unconnected-(SW29-Pad1)">
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="unconnected-(SW29-Pad2)">
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="unconnected-(SW30-Pad1)">
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="unconnected-(SW30-Pad2)">
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="unconnected-(SW31-Pad1)">
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="unconnected-(SW31-Pad2)">
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="unconnected-(SW32-Pad1)">
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="78" name="unconnected-(SW32-Pad2)">
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="unconnected-(SW33-Pad1)">
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="unconnected-(SW33-Pad2)">
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(SW34-Pad1)">
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="82" name="unconnected-(SW34-Pad2)">
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="unconnected-(SW35-Pad1)">
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="84" name="unconnected-(SW35-Pad2)">
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="unconnected-(SW36-Pad1)">
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="86" name="unconnected-(SW36-Pad2)">
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(SW37-Pad1)">
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="88" name="unconnected-(SW37-Pad2)">
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(SW38-Pad1)">
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(SW38-Pad2)">
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(SW39-Pad1)">
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(SW39-Pad2)">
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(SW40-Pad1)">
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(SW40-Pad2)">
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(SW41-Pad1)">
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(SW41-Pad2)">
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(SW42-Pad1)">
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="98" name="unconnected-(SW42-Pad2)">
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="99" name="unconnected-(SW43-Pad1)">
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(SW43-Pad2)">
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="101" name="unconnected-(SW44-Pad1)">
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="102" name="unconnected-(SW44-Pad2)">
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="103" name="unconnected-(SW45-Pad1)">
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="104" name="unconnected-(SW45-Pad2)">
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="105" name="unconnected-(SW46-Pad1)">
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="106" name="unconnected-(SW46-Pad2)">
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="107" name="unconnected-(SW47-Pad1)">
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(SW47-Pad2)">
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(SW48-Pad1)">
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(SW48-Pad2)">
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(SW49-Pad1)">
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(SW49-Pad2)">
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(SW50-Pad1)">
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(SW50-Pad2)">
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(SW51-Pad1)">
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(SW51-Pad2)">
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(SW52-Pad1)">
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(SW52-Pad2)">
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(SW53-Pad1)">
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(SW53-Pad2)">
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(SW54-Pad1)">
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(SW54-Pad2)">
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(SW55-Pad1)">
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(SW55-Pad2)">
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(SW56-Pad1)">
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(SW56-Pad2)">
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(SW57-Pad1)">
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(SW57-Pad2)">
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(SW58-Pad1)">
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(SW58-Pad2)">
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(SW59-Pad1)">
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(SW59-Pad2)">
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(SW60-Pad1)">
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(SW60-Pad2)">
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(SW61-Pad1)">
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(SW61-Pad2)">
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(SW62-Pad1)">
+      <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(SW62-Pad2)">
+      <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="139" name="unconnected-(SW63-Pad1)">
+      <node ref="SW63" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="140" name="unconnected-(SW63-Pad2)">
+      <node ref="SW63" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="141" name="unconnected-(SW64-Pad1)">
+      <node ref="SW64" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="142" name="unconnected-(SW64-Pad2)">
+      <node ref="SW64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="143" name="unconnected-(SW65-Pad1)">
+      <node ref="SW65" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="144" name="unconnected-(SW65-Pad2)">
+      <node ref="SW65" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="145" name="unconnected-(SW66-Pad1)">
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="146" name="unconnected-(SW66-Pad2)">
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="147" name="unconnected-(SW67-Pad1)">
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="148" name="unconnected-(SW67-Pad2)">
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="149" name="unconnected-(SW68-Pad1)">
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="150" name="unconnected-(SW68-Pad2)">
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="151" name="unconnected-(SW69-Pad1)">
+      <node ref="SW69" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="152" name="unconnected-(SW69-Pad2)">
+      <node ref="SW69" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="153" name="unconnected-(SW70-Pad1)">
+      <node ref="SW70" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="154" name="unconnected-(SW70-Pad2)">
+      <node ref="SW70" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="155" name="unconnected-(SW71-Pad1)">
+      <node ref="SW71" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="156" name="unconnected-(SW71-Pad2)">
+      <node ref="SW71" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="157" name="unconnected-(SW72-Pad1)">
+      <node ref="SW72" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="158" name="unconnected-(SW72-Pad2)">
+      <node ref="SW72" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="159" name="unconnected-(SW73-Pad1)">
+      <node ref="SW73" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="160" name="unconnected-(SW73-Pad2)">
+      <node ref="SW73" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="161" name="unconnected-(SW74-Pad1)">
+      <node ref="SW74" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="162" name="unconnected-(SW74-Pad2)">
+      <node ref="SW74" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="163" name="unconnected-(SW75-Pad1)">
+      <node ref="SW75" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="164" name="unconnected-(SW75-Pad2)">
+      <node ref="SW75" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="165" name="unconnected-(SW76-Pad1)">
+      <node ref="SW76" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="166" name="unconnected-(SW76-Pad2)">
+      <node ref="SW76" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="167" name="unconnected-(SW77-Pad1)">
+      <node ref="SW77" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="168" name="unconnected-(SW77-Pad2)">
+      <node ref="SW77" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="169" name="unconnected-(SW78-Pad1)">
+      <node ref="SW78" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="170" name="unconnected-(SW78-Pad2)">
+      <node ref="SW78" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="171" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="PE2" pintype="bidirectional"/>
+    </net>
+    <net code="172" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PE3" pintype="bidirectional"/>
+    </net>
+    <net code="173" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="PE4" pintype="bidirectional"/>
+    </net>
+    <net code="174" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="PE5" pintype="bidirectional"/>
+    </net>
+    <net code="175" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="176" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="177" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="PC14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="PF9" pintype="bidirectional"/>
+    </net>
+    <net code="180" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="PF10" pintype="bidirectional"/>
+    </net>
+    <net code="181" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="PF0" pintype="input+no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(U2-Pad13)">
+      <node ref="U2" pin="13" pinfunction="PF1" pintype="input+no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(U2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="184" name="unconnected-(U2-Pad16)">
+      <node ref="U2" pin="16" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="185" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="186" name="unconnected-(U2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="187" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="PF2" pintype="bidirectional"/>
+    </net>
+    <net code="188" name="unconnected-(U2-Pad22)">
+      <node ref="U2" pin="22" pinfunction="PF3" pintype="bidirectional"/>
+    </net>
+    <net code="189" name="unconnected-(U2-Pad23)">
+      <node ref="U2" pin="23" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="190" name="unconnected-(U2-Pad24)">
+      <node ref="U2" pin="24" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="191" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="192" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="193" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="194" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="195" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="196" name="unconnected-(U2-Pad32)">
+      <node ref="U2" pin="32" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="197" name="unconnected-(U2-Pad33)">
+      <node ref="U2" pin="33" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="198" name="unconnected-(U2-Pad34)">
+      <node ref="U2" pin="34" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="199" name="unconnected-(U2-Pad35)">
+      <node ref="U2" pin="35" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="200" name="unconnected-(U2-Pad36)">
+      <node ref="U2" pin="36" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="201" name="unconnected-(U2-Pad37)">
+      <node ref="U2" pin="37" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="202" name="unconnected-(U2-Pad38)">
+      <node ref="U2" pin="38" pinfunction="PE7" pintype="bidirectional"/>
+    </net>
+    <net code="203" name="unconnected-(U2-Pad39)">
+      <node ref="U2" pin="39" pinfunction="PE8" pintype="bidirectional"/>
+    </net>
+    <net code="204" name="unconnected-(U2-Pad40)">
+      <node ref="U2" pin="40" pinfunction="PE9" pintype="bidirectional"/>
+    </net>
+    <net code="205" name="unconnected-(U2-Pad41)">
+      <node ref="U2" pin="41" pinfunction="PE10" pintype="bidirectional"/>
+    </net>
+    <net code="206" name="unconnected-(U2-Pad42)">
+      <node ref="U2" pin="42" pinfunction="PE11" pintype="bidirectional"/>
+    </net>
+    <net code="207" name="unconnected-(U2-Pad43)">
+      <node ref="U2" pin="43" pinfunction="PE12" pintype="bidirectional"/>
+    </net>
+    <net code="208" name="unconnected-(U2-Pad44)">
+      <node ref="U2" pin="44" pinfunction="PE13" pintype="bidirectional"/>
+    </net>
+    <net code="209" name="unconnected-(U2-Pad45)">
+      <node ref="U2" pin="45" pinfunction="PE14" pintype="bidirectional"/>
+    </net>
+    <net code="210" name="unconnected-(U2-Pad46)">
+      <node ref="U2" pin="46" pinfunction="PE15" pintype="bidirectional"/>
+    </net>
+    <net code="211" name="unconnected-(U2-Pad47)">
+      <node ref="U2" pin="47" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="212" name="unconnected-(U2-Pad48)">
+      <node ref="U2" pin="48" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="213" name="unconnected-(U2-Pad51)">
+      <node ref="U2" pin="51" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="214" name="unconnected-(U2-Pad52)">
+      <node ref="U2" pin="52" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="215" name="unconnected-(U2-Pad53)">
+      <node ref="U2" pin="53" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="216" name="unconnected-(U2-Pad54)">
+      <node ref="U2" pin="54" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="217" name="unconnected-(U2-Pad55)">
+      <node ref="U2" pin="55" pinfunction="PD8" pintype="bidirectional"/>
+    </net>
+    <net code="218" name="unconnected-(U2-Pad56)">
+      <node ref="U2" pin="56" pinfunction="PD9" pintype="bidirectional"/>
+    </net>
+    <net code="219" name="unconnected-(U2-Pad57)">
+      <node ref="U2" pin="57" pinfunction="PD10" pintype="bidirectional"/>
+    </net>
+    <net code="220" name="unconnected-(U2-Pad58)">
+      <node ref="U2" pin="58" pinfunction="PD11" pintype="bidirectional"/>
+    </net>
+    <net code="221" name="unconnected-(U2-Pad59)">
+      <node ref="U2" pin="59" pinfunction="PD12" pintype="bidirectional"/>
+    </net>
+    <net code="222" name="unconnected-(U2-Pad60)">
+      <node ref="U2" pin="60" pinfunction="PD13" pintype="bidirectional"/>
+    </net>
+    <net code="223" name="unconnected-(U2-Pad61)">
+      <node ref="U2" pin="61" pinfunction="PD14" pintype="bidirectional"/>
+    </net>
+    <net code="224" name="unconnected-(U2-Pad62)">
+      <node ref="U2" pin="62" pinfunction="PD15" pintype="bidirectional"/>
+    </net>
+    <net code="225" name="unconnected-(U2-Pad63)">
+      <node ref="U2" pin="63" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="226" name="unconnected-(U2-Pad64)">
+      <node ref="U2" pin="64" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="227" name="unconnected-(U2-Pad65)">
+      <node ref="U2" pin="65" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="228" name="unconnected-(U2-Pad66)">
+      <node ref="U2" pin="66" pinfunction="PC9" pintype="bidirectional"/>
+    </net>
+    <net code="229" name="unconnected-(U2-Pad67)">
+      <node ref="U2" pin="67" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="230" name="unconnected-(U2-Pad69)">
+      <node ref="U2" pin="69" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="231" name="unconnected-(U2-Pad73)">
+      <node ref="U2" pin="73" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="232" name="unconnected-(U2-Pad77)">
+      <node ref="U2" pin="77" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="233" name="unconnected-(U2-Pad78)">
+      <node ref="U2" pin="78" pinfunction="PC10" pintype="bidirectional"/>
+    </net>
+    <net code="234" name="unconnected-(U2-Pad79)">
+      <node ref="U2" pin="79" pinfunction="PC11" pintype="bidirectional"/>
+    </net>
+    <net code="235" name="unconnected-(U2-Pad80)">
+      <node ref="U2" pin="80" pinfunction="PC12" pintype="bidirectional"/>
+    </net>
+    <net code="236" name="unconnected-(U2-Pad81)">
+      <node ref="U2" pin="81" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="237" name="unconnected-(U2-Pad82)">
+      <node ref="U2" pin="82" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="238" name="unconnected-(U2-Pad83)">
+      <node ref="U2" pin="83" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="239" name="unconnected-(U2-Pad84)">
+      <node ref="U2" pin="84" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="240" name="unconnected-(U2-Pad85)">
+      <node ref="U2" pin="85" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="241" name="unconnected-(U2-Pad86)">
+      <node ref="U2" pin="86" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="242" name="unconnected-(U2-Pad87)">
+      <node ref="U2" pin="87" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="243" name="unconnected-(U2-Pad88)">
+      <node ref="U2" pin="88" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="244" name="unconnected-(U2-Pad89)">
+      <node ref="U2" pin="89" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="245" name="unconnected-(U2-Pad90)">
+      <node ref="U2" pin="90" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="246" name="unconnected-(U2-Pad91)">
+      <node ref="U2" pin="91" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="247" name="unconnected-(U2-Pad92)">
+      <node ref="U2" pin="92" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="248" name="unconnected-(U2-Pad93)">
+      <node ref="U2" pin="93" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="249" name="unconnected-(U2-Pad95)">
+      <node ref="U2" pin="95" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="250" name="unconnected-(U2-Pad96)">
+      <node ref="U2" pin="96" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="251" name="unconnected-(U2-Pad97)">
+      <node ref="U2" pin="97" pinfunction="PE0" pintype="bidirectional"/>
+    </net>
+    <net code="252" name="unconnected-(U2-Pad98)">
+      <node ref="U2" pin="98" pinfunction="PE1" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
